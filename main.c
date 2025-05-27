@@ -4,9 +4,9 @@
 
 
 
-    int principal = 40000;
-    double time = 5.0;
-    const double rate = 7.0;
+    int principal = 45000;
+    double time = 6.0;
+    const double rate = 3.2;
    const double ug = 3500;
    double dollars700 = 700;
    double salary = 600000;
@@ -17,7 +17,7 @@
    int main (){
        double SI = (double)principal * time * rate;
 
-       printf(" NEW SIMPLE INTEREST IS %.2lf ", SI);
+       printf(" NEWEST SIMPLE INTEREST IS %.2lf ", SI);
 
     const double discountPercentage = 0.15;
     double price = 2500000;
